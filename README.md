@@ -6,11 +6,11 @@
 
 ![Countdown Timer Demo](demo.gif)
 
-## 機能
+## Features
 
 - 新年までの残り日数、時間、分、秒をリアルタイムでカウントダウン
 
-## Features
+## Usage
 
 1. このリポジトリをクローンまたはダウンロードします。
 2. `index.html`ファイルをブラウザで開きます。
